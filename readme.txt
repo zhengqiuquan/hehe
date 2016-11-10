@@ -5,9 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Creating a dev branch is quick.
-Add branch dev feature master.
-<<<<<<< Updated upstream
+Add branch dev feature .
 Add 101.
-=======
-Add new station.
->>>>>>> Stashed changes
