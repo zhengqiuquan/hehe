@@ -6,4 +6,8 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Creating a dev branch is quick.
 Add branch dev feature master.
+<<<<<<< Updated upstream
 Add 101.
+=======
+Add new station.
+>>>>>>> Stashed changes
